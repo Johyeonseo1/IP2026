@@ -1,4 +1,4 @@
 # IP2026
 Image Processing (2026)
 
-[tutoria1] (https://github.com/Johyeonseo1/IP2026/blob/main/tutorial1.ipynb)
+[tutoria1](https://github.com/Johyeonseo1/IP2026/blob/main/tutorial1.ipynb)
