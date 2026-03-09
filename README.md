@@ -4,8 +4,9 @@ Image Processing (2026)
 
 [tutoria1](https://github.com/Johyeonseo1/IP2026/blob/main/tutorial1.ipynb)
 
+## chap
 <details>
-<summary>chap</summary>
+<summary>접기/펼치기</summary>
 
 ### chap 1.2
 [chap 1.2.1](https://github.com/Johyeonseo1/IP2026/blob/main/chap121.ipynb)  
