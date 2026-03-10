@@ -24,7 +24,7 @@ Image Processing (2026)
 
 ### chap 1.3
 [[ chap 1.3.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap131.ipynb), 
-[[ chap 1.3.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap132.ipynb), 
+[[ chap 1.3.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap132.ipynb)
 </details>
 
 ## Homework
