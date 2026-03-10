@@ -5,7 +5,6 @@ Image Processing (2026)
 <details>
 <summary>접기/펼치기</summary>
 
-### tutorial
 [[ tutorial_1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/tutorial1.ipynb), 
 [[ tutorial_2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/tutorial2.ipynb), 
 [[ tutorial_3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/tutorial3.ipynb)
