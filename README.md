@@ -1,6 +1,14 @@
 # IP2026
 Image Processing (2026)
 
+## tutorial
+<details>
+<summary>접기/펼치기</summary>
+
+### tutorial
+[[ tutorial_1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/tutorial1.ipynb), 
+</details>
+
 ## chap
 <details>
 <summary>접기/펼치기</summary>
