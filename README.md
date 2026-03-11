@@ -27,4 +27,4 @@ Image Processing (2026)
 </details>
 
 ## Homework
-[![Video](https://img.youtube.com/vi/CkGW5W4eE6I/maxresdefault.jpg)](https://youtu.be/wyhn921q4H0)
+[![Video] (https://youtu.be/wyhn921q4H0)
