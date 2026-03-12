@@ -27,4 +27,4 @@ Image Processing (2026)
 </details>
 
 ## Homework
-<img width="100%" src="https://github.com/Johyeonseo1/IP2026/blob/main/Homework1.gif">
+<img width="90%" src="https://github.com/Johyeonseo1/IP2026/blob/main/Homework1.gif">
