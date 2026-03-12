@@ -28,3 +28,4 @@ Image Processing (2026)
 
 ## Homework
 [[Homework 1]](https://youtu.be/wyhn921q4H0)
+<img src="https://github.com/Johyeonseo1/IP2026/blob/main/Homework1.gif">
