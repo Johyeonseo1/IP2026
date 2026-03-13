@@ -27,9 +27,7 @@ Image Processing (2026)
 </details>
 
 ## Homework
-<img src="https://github.com/Johyeonseo1/IP2026/blob/main/HomeWork1.gif">
 <details>
 <summary>Homework 1</summary>
-
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/HomeWork1.gif">
 </details>
