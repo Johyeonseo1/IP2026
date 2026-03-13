@@ -35,5 +35,6 @@ Image Processing (2026)
 </details>
 <details>
 <summary>Homework 2</summary>
+  
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework2.gif">
 </details>
