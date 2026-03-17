@@ -42,6 +42,7 @@ Image Processing (2026)
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework2.gif"/>
 </details>
 <summary>Homework 3</summary>
+
 ![homework3](./image/homework3.png)
 </details>
 
