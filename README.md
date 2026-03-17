@@ -36,11 +36,13 @@ Image Processing (2026)
 <details>
 <summary>Homework 1</summary>
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework1.gif"/>
+  
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework1.ipynb)
 </details>
 <details>
 <summary>Homework 2</summary>
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework2.gif"/>
+  
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework2.ipynb)
 </details>
 <details>
