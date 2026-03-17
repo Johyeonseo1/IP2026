@@ -44,7 +44,7 @@ Image Processing (2026)
 <details>
 <summary>Homework 3</summary>
 
-[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap132.ipynb)
+[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework3.ipynb)
 ![homework3](./image/homework3.png)
 </details>
 
