@@ -17,28 +17,28 @@ Image Processing (2026)
 <details>
 <summary>chap 1.2</summary>
   
-[[ chap 1.2.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap121.ipynb), 
-[[ chap 1.2.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap122.ipynb), 
-[[ chap 1.2.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap123.ipynb), 
-[[ chap 1.2.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap124.ipynb), 
-[[ chap 1.2.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap125.ipynb)
+[[ chap 1.2.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap121.ipynb), 
+[[ chap 1.2.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap122.ipynb), 
+[[ chap 1.2.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap123.ipynb), 
+[[ chap 1.2.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap124.ipynb), 
+[[ chap 1.2.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap125.ipynb)
 </details>
 
 <details>
 <summary>chap 1.3</summary>
   
-[[ chap 1.3.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap131.ipynb), 
-[[ chap 1.3.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap132.ipynb)
+[[ chap 1.3.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.3/chap131.ipynb), 
+[[ chap 1.3.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.3/chap132.ipynb)
 </details>
 
 <details>
 <summary>chap 1.4</summary>
   
-[[ chap 1.4.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap141.ipynb), 
-[[ chap 1.4.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap142.ipynb), 
-[[ chap 1.4.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap143.ipynb), 
-[[ chap 1.4.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap144kc.ipynb), 
-[[ chap 1.4.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap145.ipynb)
+[[ chap 1.4.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap141.ipynb), 
+[[ chap 1.4.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap142.ipynb), 
+[[ chap 1.4.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap143.ipynb), 
+[[ chap 1.4.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap144kc.ipynb), 
+[[ chap 1.4.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap145.ipynb)
 </details>
 
 ## Homework
