@@ -49,13 +49,13 @@ Image Processing (2026)
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework1.ipynb)
 </details>
 <details>
-<summary><b>Homework 1</b></summary>
+<summary><b>Homework 2</b></summary>
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework2.gif"/>
   
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework2.ipynb)
 </details>
 <details>
-<summary><b>Homework 1</b></summary>
+<summary><b>Homework 3</b></summary>
 
 ![homework3](./image/homework3.png)
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework3.ipynb)
