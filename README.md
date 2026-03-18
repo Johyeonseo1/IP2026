@@ -5,7 +5,7 @@ Image Processing (2026)
 
 ## tutorial
 <details>
-<summary>tutorial</summary>
+<summary><b>tutorial</b></summary>
 
 [[ tutorial_1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial1.ipynb), 
 [[ tutorial_2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial2.ipynb), 
