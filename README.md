@@ -1,7 +1,7 @@
 # IP2026
 Image Processing (2026)
 <details>
-<summary><b>Tutorial/Chap</b>b></summary>
+<summary><b>Tutorial/Chap</b></summary>
 
 ## tutorial
 <details>
