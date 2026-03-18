@@ -1,5 +1,7 @@
 # IP2026
 Image Processing (2026)
+<details>
+<summary>Tutorial/Chap</summary>
 
 <details>
 <summary>tutorial</summary>
@@ -39,6 +41,8 @@ Image Processing (2026)
 [[ chap 1.4.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap143.ipynb), 
 [[ chap 1.4.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap144kc.ipynb), 
 [[ chap 1.4.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap145.ipynb)
+</details>
+
 </details>
 
 ## Homework
