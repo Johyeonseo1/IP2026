@@ -1,9 +1,9 @@
 # IP2026
 Image Processing (2026)
-<details>
-<summary><b>Tutorial/Chap</b></summary>
 
-## tutorial
+<details>
+<summary><b>Tutorial</b></summary>
+
 [[ tutorial_1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial1.ipynb), 
 [[ tutorial_2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial2.ipynb), 
 [[ tutorial_3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial3.ipynb), 
@@ -11,6 +11,7 @@ Image Processing (2026)
 [[ tutorial_6 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial6.ipynb), 
 [[ tutorial_7 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial7.ipynb), 
 [[ tutorial_8 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial8.ipynb)
+</details>
 
 ## chap
 <details>
@@ -38,8 +39,6 @@ Image Processing (2026)
 [[ chap 1.4.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap143.ipynb), 
 [[ chap 1.4.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap144kc.ipynb), 
 [[ chap 1.4.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap145.ipynb)
-</details>
-
 </details>
 
 ## Homework
