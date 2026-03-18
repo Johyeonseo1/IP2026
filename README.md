@@ -4,9 +4,6 @@ Image Processing (2026)
 <summary><b>Tutorial/Chap</b></summary>
 
 ## tutorial
-<details>
-<summary><b>tutorial</b></summary>
-
 [[ tutorial_1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial1.ipynb), 
 [[ tutorial_2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial2.ipynb), 
 [[ tutorial_3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial3.ipynb), 
@@ -14,11 +11,10 @@ Image Processing (2026)
 [[ tutorial_6 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial6.ipynb), 
 [[ tutorial_7 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial7.ipynb), 
 [[ tutorial_8 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Tutorial/tutorial8.ipynb)
-</details>
 
 ## chap
 <details>
-<summary>chap 1.2</summary>
+<summary><b>chap 1.2</b></summary>
   
 [[ chap 1.2.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap121.ipynb), 
 [[ chap 1.2.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.2/chap122.ipynb), 
@@ -28,14 +24,14 @@ Image Processing (2026)
 </details>
 
 <details>
-<summary>chap 1.3</summary>
+<summary><b>chap 1.3</b></summary>
   
 [[ chap 1.3.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.3/chap131.ipynb), 
 [[ chap 1.3.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.3/chap132.ipynb)
 </details>
 
 <details>
-<summary>chap 1.4</summary>
+<summary><b>chap 1.4</b></summary>
   
 [[ chap 1.4.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap141.ipynb), 
 [[ chap 1.4.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap142.ipynb), 
