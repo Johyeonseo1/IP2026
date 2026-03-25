@@ -39,9 +39,12 @@ Image Processing (2026)
 [[ chap 1.4.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1403.ipynb), 
 [[ chap 1.4.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1404.ipynb), 
 [[ chap 1.4.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1405.ipynb), 
-[[ chap 1.4.6 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1406.ipynb), 
+[[ chap 1.4.6 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1406.ipynb),  
 [[ chap 1.4.7 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1407.ipynb), 
-[[ chap 1.4.9 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1409.ipynb)
+[[ chap 1.4.9 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1409.ipynb), 
+[[ chap 1.4.10 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1410.ipynb), 
+[[ chap 1.4.12 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1412.ipynb), 
+[[ chap 1.4.13 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1413.ipynb)
 </details>
 
 ## Homework
