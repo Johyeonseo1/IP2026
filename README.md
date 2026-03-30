@@ -94,4 +94,10 @@ Image Processing (2026)
 ![homework3](./image/homework3.png)
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework3.ipynb)
 </details>
+<details>
+<summary><b>Homework 4</b></summary>
+<img src="https://github.com/Johyeonseo1/IP2026/homework4.gif"/>
+  
+[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework4.ipynb)
+</details>
 
