@@ -104,6 +104,6 @@ Image Processing (2026)
 <summary><b>Homework 5</b></summary>
 <img src="https://github.com/Johyeonseo1/IP2026/blob/main/homework5.gif"/>
   
-[[ code ]](https://https://github.com/Johyeonseo1/IP2026/blob/main/homework5.ipynb)
+[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework5.ipynb)
 </details>
 
