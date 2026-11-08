@@ -39,39 +39,39 @@ Image Processing (2026)
 [[ chap 1.4.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1403.ipynb), 
 [[ chap 1.4.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1404.ipynb), 
 [[ chap 1.4.5 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1405.ipynb), 
-[[ chap 1.4.6 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1406.ipynb),  
-[[ chap 1.4.7 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1407.ipynb), 
-[[ chap 1.4.9 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1409.ipynb), 
-[[ chap 1.4.10 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1410.ipynb), 
-[[ chap 1.4.12 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1412.ipynb), 
-[[ chap 1.4.13 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1413.ipynb)
+[[ chap 1.4.6 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1406.ipynb),  
+[[ chap 1.4.7 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1407.ipynb), 
+[[ chap 1.4.9 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1409.ipynb), 
+[[ chap 1.4.10 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1410.ipynb), 
+[[ chap 1.4.12 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1412.ipynb), 
+[[ chap 1.4.13 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.4/chap1413.ipynb)
 </details>
 
 <details>
 <summary><b>chap 1.5</b></summary>
   
-[[ chap 1.5.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1502.ipynb), 
-[[ chap 1.5.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1503.ipynb), 
-[[ chap 1.5.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1504.ipynb), 
-[[ chap 1.5.10 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap1510.ipynb)
+[[ chap 1.5.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.5/chap1502.ipynb), 
+[[ chap 1.5.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.5/chap1503.ipynb), 
+[[ chap 1.5.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.5/chap1504.ipynb), 
+[[ chap 1.5.10 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.5/chap1510.ipynb)
 </details>
 
 <details>
 <summary><b>chap 1.6</b></summary>
 
-[[ chap 1.6.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap161.ipynb), 
-[[ chap 1.6.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap162.ipynb), 
-[[ chap 1.6.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap163.ipynb)
+[[ chap 1.6.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.6/chap161.ipynb), 
+[[ chap 1.6.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.6/chap162.ipynb), 
+[[ chap 1.6.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.6/chap163.ipynb)
 
 </details>
 
 <details>
 <summary><b>chap 1.7</b></summary>
 
-[[ chap 1.7.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap171.ipynb), 
-[[ chap 1.7.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap172.ipynb), 
-[[ chap 1.7.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap173.ipynb), 
-[[ chap 1.7.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/chap174.ipynb)
+[[ chap 1.7.1 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.7/chap171.ipynb), 
+[[ chap 1.7.2 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.7/chap172.ipynb), 
+[[ chap 1.7.3 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.7/chap173.ipynb), 
+[[ chap 1.7.4 ]](https://github.com/Johyeonseo1/IP2026/blob/main/Chapter/1.7/chap174.ipynb)
 
 </details>
 
@@ -96,14 +96,14 @@ Image Processing (2026)
 </details>
 <details>
 <summary><b>Homework 4</b></summary>
-<img src="https://github.com/Johyeonseo1/IP2026/blob/main/homework4.gif"/>
+<img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework4.gif"/>
   
-[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework4.ipynb)
+[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework4.ipynb)
 </details>
 <details>
 <summary><b>Homework 5</b></summary>
-<img src="https://github.com/Johyeonseo1/IP2026/blob/main/homework5.gif"/>
+<img src="https://github.com/Johyeonseo1/IP2026/blob/main/video/homework5.gif"/>
   
-[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/homework5.ipynb)
+[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework5.ipynb)
 </details>
 
